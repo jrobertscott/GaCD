@@ -10,7 +10,7 @@ The data was then extracted to include only the experimental variables containin
 
 This data was grouped by patient and activity, and a second tidy data set was made containing the average of each variable for each activity and each subject, which was outputted as text file.
 
-Below is the original README.txt from the dataset
+Below is the original README.txt from the dataset:
 
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
