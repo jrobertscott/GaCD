@@ -6,7 +6,7 @@ The variables consist of two descriptive (patient_ID and activity) and 86 derive
 "patient_ID" - numbered 1 through 30 for each of the 30 participants
 "activity"   - labeled with one of the six descriptive activities
 
-The means of the 86 following (see original ReadMe below):
+The means of the 86 following (see original researcher's comments below):
 
 "tBodyAcc-mean()-X"                    "tBodyAcc-mean()-Y"                   
 "tBodyAcc-mean()-Z"                    "tGravityAcc-mean()-X"                
@@ -52,7 +52,7 @@ The means of the 86 following (see original ReadMe below):
 "fBodyAccMag-std()"                    "fBodyBodyAccJerkMag-std()"           
 "fBodyBodyGyroMag-std()"               "fBodyBodyGyroJerkMag-std()"    
 
-Original ReadMe:
+Taken from research data:
 
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ) using another low pass Butterworth filter with a corner frequency of 0.3 Hz. 
 
